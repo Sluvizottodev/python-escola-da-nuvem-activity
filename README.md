@@ -1,59 +1,51 @@
-# Prática 01: Programas Básicos em Python
+# 🚀 Prática 01: Programas Básicos em Python
 
-Este repositório contém exercícios práticos para quem está começando a programar em Python.  
-Cada exercício apresenta um desafio simples para fixar conceitos básicos como entrada e saída de dados, operações aritméticas e funções.
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
 
----
-
-## Exercícios
-
-### 1. Programa de Saudação
-Crie um programa que imprima a mensagem **"Olá, mundo!"** na tela.
+*Exercícios para iniciantes fixarem conceitos básicos de Python: entrada/saída, operações e funções.*
 
 ---
 
-### 2. Calculadora de Soma
-Desenvolva um programa que soma dois números.
+## 📝 Exercícios
 
-- Variáveis utilizadas:
-  - `numero1 = 12`
-  - `numero2 = 14`
-  
-O programa deve calcular a soma e exibir o resultado na tela.
+### 1️⃣ Programa de Saudação
+Imprima a mensagem **"Olá, mundo!"** na tela.
 
 ---
 
-### 3. Calculadora de Volume
-Crie um programa que calcula o volume de uma caixa retangular.
+### 2️⃣ Calculadora de Soma
+Desenvolva um programa que soma dois números:
 
-- Dimensões:
-  - Comprimento: 12 cm
-  - Largura: 14 cm
-  - Altura: 20 cm
+- `numero1 = 12`
+- `numero2 = 14`
 
-O programa deve calcular o volume usando a fórmula:
-
-\[
-\text{Volume} = \text{Comprimento} \times \text{Largura} \times \text{Altura}
-\]
-
-e exibir o resultado em cm³.
+Exiba o resultado da soma.
 
 ---
 
-### 4. Calculadora de Preço Total
-Desenvolva um programa que calcula o preço total de uma compra.
+### 3️⃣ Calculadora de Volume
+Calcule o volume de uma caixa retangular com as dimensões:
 
-- Informações do produto:
-  - Nome do produto: **"Cadeira Infantil"**
-  - Preço unitário: R$ 12.40
-  - Quantidade: 3
+- Comprimento: 12 cm  
+- Largura: 14 cm  
+- Altura: 20 cm  
 
-O programa deve calcular o preço total e exibir todas as informações de forma clara, incluindo o resultado final.
+Exiba o volume em cm³.
 
 ---
 
-## Como executar
+### 4️⃣ Calculadora de Preço Total
+Calcule o preço total da compra com:
+
+- Produto: **Cadeira Infantil**  
+- Preço unitário: R$ 12.40  
+- Quantidade: 3  
+
+Exiba uma mensagem clara com todas as informações e o preço total.
+
+---
+
+## ▶️ Como executar
 
 1. Certifique-se de ter o Python 3 instalado em sua máquina.
 
